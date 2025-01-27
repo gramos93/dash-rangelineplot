@@ -10,9 +10,9 @@ rangelineplot <- function(id=NULL, axisType=NULL, boundaryStyle=NULL, className=
     component <- list(
         props = props,
         type = 'Rangelineplot',
-        namespace = 'rangelineplot',
+        namespace = 'dash_rangelineplot',
         propNames = c('id', 'axisType', 'boundaryStyle', 'className', 'data', 'grayZoneStyle', 'lineStyle', 'range', 'style'),
-        package = 'rangelineplot'
+        package = 'dashRangelineplot'
         )
 
     structure(component, class = c('dash_component', 'list'))

@@ -1,6 +1,6 @@
 
-name = "dash-rangelineplot"
-uuid = "1b08a953-4be3-4667-9a23-7034831b450c"
+name = "DashRangelineplot"
+uuid = "1b08a953-4be3-4667-9a23-3f8affd38267"
 authors = ["Gabriel Ramos <piscina.ramos@gmail.com>"]
 version = "0.0.1"
 

@@ -18,10 +18,10 @@ RangeLinePlot integrates with Plotly.js to create interactive line plots with a 
 
 ## Installation
 
-Install the component from [PyPI](https://pypi.org/project/rangelineplot/) using `pip`:
+Install the component from [PyPI](https://pypi.org/project/dash-rangelineplot/) using `pip`:
 
 ```bash
-pip install rangelineplot
+pip install dash-rangelineplot
 ```
    
 ---

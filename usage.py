@@ -3,7 +3,7 @@ import dash
 from dash import html
 from dash.dependencies import Input, Output
 import numpy as np
-from rangelineplot.Rangelineplot import Rangelineplot
+from dash_rangelineplot import Rangelineplot
 
 app = dash.Dash(__name__)
 

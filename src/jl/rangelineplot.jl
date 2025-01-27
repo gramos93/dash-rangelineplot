@@ -25,6 +25,6 @@ If axisType='x', it refers to x-values. If 'y', it refers to y-values.
 function rangelineplot(; kwargs...)
         available_props = Symbol[:id, :axisType, :boundaryStyle, :className, :data, :grayZoneStyle, :lineStyle, :range, :style]
         wild_props = Symbol[]
-        return Component("rangelineplot", "Rangelineplot", "rangelineplot", available_props, wild_props; kwargs...)
+        return Component("rangelineplot", "Rangelineplot", "dash_rangelineplot", available_props, wild_props; kwargs...)
 end
 
