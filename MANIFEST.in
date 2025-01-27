@@ -1,0 +1,11 @@
+include rangelineplot/rangelineplot.min.js
+include rangelineplot/rangelineplot.min.js.map
+include rangelineplot/async-*.js
+include rangelineplot/async-*.js.map
+include rangelineplot/*-shared.js
+include rangelineplot/*-shared.js.map
+include rangelineplot/metadata.json
+include rangelineplot/package-info.json
+include README.md
+include LICENSE
+include package.json

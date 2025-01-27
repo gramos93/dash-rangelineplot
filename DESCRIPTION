@@ -1,0 +1,13 @@
+Package: rangelineplot
+Title: A custom Dash component for interactive line plots with draggable range selectors, ideal for data filtering.
+Version: 0.0.1
+Description: A custom Dash component for interactive line plots with draggable range selectors, ideal for data filtering.
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: 
+BugReports: 
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
