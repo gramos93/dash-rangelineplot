@@ -1,6 +1,6 @@
 {
     "name": "dash-rangelineplot",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "A custom Dash component for interactive line plots with draggable range selectors, ideal for data filtering.",
 
     "main": "build/index.js",

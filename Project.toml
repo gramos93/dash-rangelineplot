@@ -1,12 +1,8 @@
-[project]
+
 name = "DashRangelineplot"
 uuid = "1b08a953-4be3-4667-9a23-3f8affd38267"
-authors = [{name="Gabriel Ramos", email="piscina.ramos@gmail.com"}]
-version = "0.0.1"
-
-[project.urls]
-Homepage = "https://github.com/gramos93/dash-rangelineplot"
-Issues = "https://github.com/gramos93/dash-rangelineplot/issues"
+authors = ["Gabriel Ramos <piscina.ramos@gmail.com>"]
+version = "0.0.3"
 
 [deps]
 Dash = "1b08a953-4be3-4667-9a23-3db579824955"
