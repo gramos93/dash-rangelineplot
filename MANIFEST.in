@@ -1,5 +1,5 @@
-include dash_rangelineplot/rangelineplot.min.js
-include dash_rangelineplot/rangelineplot.min.js.map
+include dash_rangelineplot/dash_rangelineplot.min.js
+include dash_rangelineplot/dash_rangelineplot.min.js.map
 include dash_rangelineplot/async-*.js
 include dash_rangelineplot/async-*.js.map
 include dash_rangelineplot/*-shared.js
